@@ -12,3 +12,6 @@ Canvi local
  
  
  Canvi fet a main en remot.
+
+
+nou canvi
