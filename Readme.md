@@ -1,7 +1,7 @@
 
 #Hello world
 #Adeu si
-Canvi linea : quarta
+Canvi linea : quarta si
 Canvi desde github
 
 Canvi fet al branc : primera branca
@@ -12,4 +12,4 @@ Canvi local
  
  
  Canvi fet a main en remot.
-Canvi linea : tercera
+Canvi linea : tercera 2
