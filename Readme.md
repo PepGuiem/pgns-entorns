@@ -4,3 +4,4 @@
 Canvi desde github
 
 Canvi fet al branc : primera branca
+ Segon canvi : primera branca
